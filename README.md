@@ -1,8 +1,6 @@
 This a Micro Project work given by Login2Xplore for Introduction to JsonPowerDB
 
-Title of the Project:
-
-Student Enrollment Form with JsonPowerDB Integration
+#Student Enrollment Form with JsonPowerDB Integration
 
 Description:
 
