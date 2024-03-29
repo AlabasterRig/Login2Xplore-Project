@@ -2,7 +2,7 @@ This a Micro Project work given by Login2Xplore for Introduction to JsonPowerDB
 
 # Student Enrollment Form with JsonPowerDB Integration
 
-Description:
+## Description:
 
 This project is a web-based student enrollment form that integrates with JsonPowerDB, a high-performance and schema-less JSON database. The form allows users to enter student details such as roll number, full name, class, birth date, address, and enrollment date. The entered data is then stored in JsonPowerDB for easy retrieval and manipulation.
 
